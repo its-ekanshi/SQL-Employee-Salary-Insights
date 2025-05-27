@@ -48,7 +48,7 @@ Structured the logic into multiple **CTEs (Common Table Expressions)** to calcul
 - Average months between changes
 - Rank by salary growth
 
-📎 *View Full Query:* [CTE Version](#)
+📎 **View Full Query:** [CTE Version](SQLQuery1.sql)  
 
 ---
 
@@ -59,8 +59,7 @@ Rewrote the same logic using a **single query**:
 - Used `CASE`, `LEAD()`, and `RANK()` smartly
 - Improved readability and performance
 
-📎 *View Full Query:* [Optimized Version](#)
-
+📎 **View Full Query:** [Optimized Version](SQLQuery1-(1).sql)
 ---
 
 ## 📸 Output Preview
